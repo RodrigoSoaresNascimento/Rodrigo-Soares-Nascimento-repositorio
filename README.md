@@ -4,7 +4,7 @@ Desafios feitos para a terceira etapa do processo seletivo da academia capgemini
 
 
 ### Questão 01:
-- Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n.
+Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n.
 A última linha não deve conter nenhum espaço.
 
 ### Questão 02:
@@ -43,7 +43,7 @@ src/capgemini_desafios
 
 # executar o projeto
 
-
+```bash
 
 ## 🔖 Licensa
 [![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
