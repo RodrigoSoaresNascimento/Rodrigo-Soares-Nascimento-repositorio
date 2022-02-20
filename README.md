@@ -27,7 +27,7 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 
 ### 🛠 Tecnologias usadas:
 - java versão 11
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 - Eclipse IDE 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
@@ -43,7 +43,7 @@ src/capgemini_desafios
 
 # executar o projeto
 
-```bash
+```
 
 ## 🔖 Licensa
 [![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
